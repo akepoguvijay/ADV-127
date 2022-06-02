@@ -1,0 +1,51 @@
+.heading
+{
+    background-color: pink ;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    margin: -10px;
+    box-shadow: 5px 5px 30px peachpuff;
+}
+span
+{
+    color: navy;
+    font-size: 19px;
+}
+
+body
+{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Special Elite', cursive;
+}
+
+#music
+{
+    float: left;
+    margin-top: 40px;
+}
+
+#vol
+{
+    float: right;
+    margin-top: 40px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: lightgrey;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+}
+
+button
+{
+    margin-top: 30px;
+    font-size: 30px;
+}
